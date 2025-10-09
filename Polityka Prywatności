@@ -1,0 +1,78 @@
+Polityka prywatności — Aplikacja "Magazyn Produktów"
+Wersja: 1.0
+Data wejścia w życie: 09-10-2025
+
+Wstęp
+Niniejsza Polityka prywatności wyjaśnia, jakie dane są zbierane i w jaki sposób są wykorzystywane w ramach aplikacji mobilnej "Magazyn Produktów" (dalej: „Aplikacja”), której wydawcą jest Piotr Czechowski (kontakt: pczechowski41@gmail.com). Aplikacja jest dostępna na urządzenia z systemem Android. Brak oficjalnej strony internetowej w chwili publikacji tej polityki.
+
+Informacje ogólne
+Właściciel aplikacji:
+    Nazwa aplikacji: Magazyn Produktów
+    Właściciel / Administrator danych: Piotr Czechowski
+    Adres e‑mail kontaktowy: pczechowski41@gmail.com
+    Kraj: Polska
+
+Jakie dane zbieramy i kiedy
+1. Dane przekazywane dobrowolnie przez użytkownika:
+   - Adres e‑mail (wyłącznie gdy użytkownik zdecyduje się kontaktować z nami lub zgłosić problem).
+   - Pliki przesyłane do Aplikacji (np. import/eksport archiwów .zip) — tylko po wyraźnym wyborze użytkownika.
+   - Zdjęcia wykonane aparatem urządzenia — tylko jeśli użytkownik nada aplikacji pozwolenie i zdecyduje się zrobić zdjęcie w ramach funkcji Aplikacji.
+
+2. Dane techniczne i diagnostyczne:
+   - Identyfikator reklamowy urządzenia (Advertising ID) i informacje używane przez sieci reklamowe do wyświetlania reklam (AdMob). 
+   - Informacje o urządzeniu i systemie operacyjnym (np. model, wersja Android), statystyki użycia (anonimizowane lub agregowane), logi błędów i informacje o połączeniu sieciowym (status online/offline) zbierane w celu zapewnienia działania Aplikacji i diagnostyki problemów.
+
+3. Dane zbierane przez podmioty zewnętrzne (np. Google/AdMob):
+   - Aplikacja integruje usługi reklamowe (Google AdMob). Usługi te mogą zbierać i przetwarzać dane w celu personalizacji reklam, pomiaru skuteczności reklam oraz zapobiegania nadużyciom. Szczegóły i zasady przetwarzania danych przez podmioty zewnętrzne reguluje ich polityka prywatności (np. Google).
+
+Cele i podstawy prawne przetwarzania
+- Wyświetlanie reklam (personalizowanych i niepersonalizowanych): na podstawie wyraźnej zgody użytkownika (gdzie wymagana) lub prawnie uzasadnionego interesu (dla niektórych form reklamy). Dane przekazywane do AdMob są wykorzystywane zgodnie z polityką Google AdMob.
+- Zapewnienie funkcjonalności aplikacji: przetwarzanie plików przesłanych przez użytkownika, obsługa eksportu/importu — na podstawie wykonania czynności na żądanie użytkownika.
+- Diagnostyka i poprawa jakości: analiza logów i danych technicznych w celu usunięcia błędów i poprawy wydajności — prawnie uzasadniony interes administratora.
+- Kontakt z użytkownikiem: na podstawie zgody lub w celu wykonania uzasadnionej czynności (np. odpowiedź na zgłoszenie błędu).
+
+Uprawnienia i zgody
+- Aplikacja prosi o dostęp do wybranych uprawnień urządzenia (np. aparat, dostęp do plików). Nadawanie uprawnień jest dobrowolne — brak zgody może ograniczyć niektóre funkcje Aplikacji.
+- Jeśli w Twoim kraju wymagane jest uzyskanie zgody na spersonalizowane reklamy, Aplikacja może wyświetlać monit o zgodę. Możesz w każdej chwili zrezygnować z spersonalizowanych reklam poprzez ustawienia systemowe lub narzędzia Google (np. ustawienia reklam w koncie Google).
+
+Przechowywanie danych
+- Dane plików przesyłanych przez użytkownika są przechowywane lokalnie na urządzeniu lub — jeśli zapisujesz eksport — zapisywane w katalogu „Pobrane/MagazynProdukty” (lub innym wskazanym przez system plików). Aplikacja nie przesyła automatycznie tych plików na zewnętrzne serwery.
+- Dane telemetryczne i diagnostyczne mogą być przechowywane przez okres niezbędny do realizacji celu (np. do 90 dni dla logów diagnostycznych), chyba że prawo wymaga dłuższego okresu przechowywania.
+- Dane przekazywane do dostawców zewnętrznych (np. Google AdMob) są przechowywane i przetwarzane zgodnie z politykami tych dostawców.
+
+Udostępnianie danych osobowych
+- Nie sprzedajemy ani nie wynajmujemy danych osobowych osób trzecich. 
+- Dane niezbędne do wyświetlania reklam i pomiaru reklam mogą być udostępniane platformom reklamowym (np. Google/AdMob) oraz ich partnerom reklamowym i analitycznym. 
+- Możemy też ujawnić dane, jeśli jest to wymagane prawnie (np. na żądanie organów ścigania) lub w celu ochrony praw właściciela aplikacji.
+
+Transfer danych międzynarodowy
+- Usługi reklamowe i analityczne (np. Google) mogą przetwarzać i przechowywać dane poza granicami Unii Europejskiej. Google stosuje odpowiednie mechanizmy prawne (np. klauzule umowne) w celu zabezpieczenia transferu danych — szczegółowe informacje znajdziesz w polityce prywatności dostawcy.
+
+Prawa użytkownika
+Masz prawo do: 
+  - żądania dostępu do swoich danych osobowych,
+  - żądania sprostowania lub usunięcia danych,
+  - wniesienia sprzeciwu wobec przetwarzania danych w celach marketingowych,
+  - przenoszenia danych (dot. danych w formatach elektronicznych),
+  - wycofania zgody w dowolnym momencie (jeśli przetwarzanie odbywa się na podstawie zgody),
+  - wniesienia skargi do organu nadzorczego (w Polsce: Prezes Urzędu Ochrony Danych Osobowych).
+
+Bezpieczeństwo
+Stosujemy odpowiednie środki techniczne i organizacyjne mające na celu ochronę danych przed nieautoryzowanym dostępem, wyciekiem, modyfikacją oraz utratą. Pomimo tego żadne rozwiązanie nie gwarantuje 100% bezpieczeństwa — zalecamy ostrożność przy udostępnianiu danych wrażliwych.
+
+Dane dzieci
+Aplikacja nie jest skierowana do dzieci poniżej 13 roku życia. Nie zbieramy świadomie danych osobowych dzieci. Jeśli dowiemy się, że zebrano dane dziecka bez wymaganego zezwolenia rodzica/opiekuna, podejmiemy działania mające na celu usunięcie takich danych.
+
+Pliki cookies i podobne technologie
+Aplikacja może korzystać z technologii podobnych do cookie (np. identyfikatorów reklamowych) w celu personalizacji reklam i analityki. Ponieważ Aplikacja jest aplikacją mobilną (nie stroną www), mechanizm zarządzania cookie może różnić się od przeglądarkowego. W przyszłości planujemy wdrożyć rozszerzone funkcje zarządzania zgodami (consent).
+
+Zmiany w Polityce prywatności
+Politykę prywatności możemy aktualizować. O wszelkich istotnych zmianach poinformujemy użytkowników poprzez aktualizację daty wejścia w życie i (jeśli to możliwe) w samej aplikacji.
+
+Kontakt
+W razie pytań dotyczących polityki prywatności prosimy o kontakt:
+    Piotr Czechowski
+    e‑mail: pczechowski41@gmail.com
+
+Postanowienia końcowe
+Niniejsza polityka ma charakter informacyjny i nie stanowi porady prawnej. Jeśli potrzebujesz oficjalnego, prawniczego dokumentu dopasowanego do specyfiki działalności (np. jeżeli planujesz przetwarzać dane w większym zakresie lub korzystać z dodatkowych dostawców), rozważ konsultację z prawnikiem ds. ochrony danych osobowych.
