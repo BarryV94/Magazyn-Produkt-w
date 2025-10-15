@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Inne",
+    "bg": "#ededed",
+    "text": "#333"
+  },
+  {
+    "name": "Złoto",
+    "bg": "#FFD700",
+    "text": "#000"
+  },
+  {
+    "name": "Singles",
+    "bg": "#6a1b9a",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Boosters",
+    "bg": "#30e62d",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Booster Box",
+    "bg": "#d80e0e",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Elite Trainer Box",
+    "bg": "#577be5",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Ultra Premium",
+    "bg": "#d35cff",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Tins",
+    "bg": "#1fd690",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Mini Tins",
+    "bg": "#4421f2",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Blisters",
+    "bg": "#c44703",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Trainer Kits",
+    "bg": "#2ff9eb",
+    "text": "#333"
+  },
+  {
+    "name": "Theme Decks",
+    "bg": "#f96cd3",
+    "text": "#333"
+  },
+  {
+    "name": "Box Sets",
+    "bg": "#d7f019",
+    "text": "#333"
+  },
+  {
+    "name": "Akcesoria",
+    "bg": "#000000",
+    "text": "#ffffff"
+  }
+]

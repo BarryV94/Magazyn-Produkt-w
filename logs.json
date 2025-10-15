@@ -1,0 +1,262 @@
+[
+  {
+    "timestamp": "2025-10-14T08:42:09.689Z",
+    "message": "Historia zdarzeń została zamknięta"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:17.066Z",
+    "message": "Modal kursów walut został zamknięty"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:26.289Z",
+    "message": "Modal kategorii został zamknięty"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:53.998Z",
+    "message": "Rozpoczęcie ładowania aplikacji"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:53.998Z",
+    "message": "Rozpoczęcie: Ładowanie tła"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.057Z",
+    "message": "Zakończono: Ładowanie tła (10%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.057Z",
+    "message": "Rozpoczęcie: Stosowanie tła"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.113Z",
+    "message": "Zakończono: Stosowanie tła (15%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.113Z",
+    "message": "Rozpoczęcie: Inicjalizacja bazy danych"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.126Z",
+    "message": "Zakończono: Inicjalizacja bazy danych (30%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.126Z",
+    "message": "Rozpoczęcie: Wczytywanie danych"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.127Z",
+    "message": "Zakończono: Wczytywanie danych (40%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.127Z",
+    "message": "Rozpoczęcie: Migracja danych produktów"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.228Z",
+    "message": "Zakończono: Migracja danych produktów (55%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.228Z",
+    "message": "Rozpoczęcie: Ładowanie galerii"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.492Z",
+    "message": "Zakończono: Ładowanie galerii (65%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.492Z",
+    "message": "Rozpoczęcie: Migracja kategorii"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.493Z",
+    "message": "Zakończono: Migracja kategorii (70%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.493Z",
+    "message": "Rozpoczęcie: Migracja referencji obrazów"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.494Z",
+    "message": "Zakończono: Migracja referencji obrazów (80%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.494Z",
+    "message": "Rozpoczęcie: Ładowanie obrazów produktów"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.506Z",
+    "message": "Zakończono: Ładowanie obrazów produktów (85%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.506Z",
+    "message": "Rozpoczęcie: Inicjalizacja interfejsu"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.582Z",
+    "message": "Zakończono: Inicjalizacja interfejsu (90%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.583Z",
+    "message": "Rozpoczęcie: Renderowanie produktów"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.590Z",
+    "message": "Zakończono: Renderowanie produktów (95%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.591Z",
+    "message": "Rozpoczęcie: Aktualizacja danych"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.631Z",
+    "message": "Rozpoczęcie aktualizacji kursów walut"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:54.634Z",
+    "message": "Zakończono: Aktualizacja danych (100%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:56.000Z",
+    "message": "Aplikacja w pełni załadowana"
+  },
+  {
+    "timestamp": "2025-10-14T08:42:59.889Z",
+    "message": "Podgląd produktu został zamknięty"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:01.578Z",
+    "message": "Naciśnięto przycisk usunięcia dla produktu: srebro"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:02.385Z",
+    "message": "Potwierdzono usunięcie produktu: srebro"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:09.737Z",
+    "message": "Próba usunięcia kategorii: Srebro"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:10.555Z",
+    "message": "Usunięto kategorię: Srebro"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:11.689Z",
+    "message": "Modal kategorii został zamknięty"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.731Z",
+    "message": "Rozpoczęcie ładowania aplikacji"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.731Z",
+    "message": "Rozpoczęcie: Ładowanie tła"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.797Z",
+    "message": "Zakończono: Ładowanie tła (10%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.797Z",
+    "message": "Rozpoczęcie: Stosowanie tła"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.847Z",
+    "message": "Zakończono: Stosowanie tła (15%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.847Z",
+    "message": "Rozpoczęcie: Inicjalizacja bazy danych"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.854Z",
+    "message": "Zakończono: Inicjalizacja bazy danych (30%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.854Z",
+    "message": "Rozpoczęcie: Wczytywanie danych"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.855Z",
+    "message": "Zakończono: Wczytywanie danych (40%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.855Z",
+    "message": "Rozpoczęcie: Migracja danych produktów"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.856Z",
+    "message": "Zakończono: Migracja danych produktów (55%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:12.856Z",
+    "message": "Rozpoczęcie: Ładowanie galerii"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.114Z",
+    "message": "Zakończono: Ładowanie galerii (65%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.114Z",
+    "message": "Rozpoczęcie: Migracja kategorii"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.116Z",
+    "message": "Zakończono: Migracja kategorii (70%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.116Z",
+    "message": "Rozpoczęcie: Migracja referencji obrazów"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.117Z",
+    "message": "Zakończono: Migracja referencji obrazów (80%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.117Z",
+    "message": "Rozpoczęcie: Ładowanie obrazów produktów"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.120Z",
+    "message": "Zakończono: Ładowanie obrazów produktów (85%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.121Z",
+    "message": "Rozpoczęcie: Inicjalizacja interfejsu"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.193Z",
+    "message": "Zakończono: Inicjalizacja interfejsu (90%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.193Z",
+    "message": "Rozpoczęcie: Renderowanie produktów"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.195Z",
+    "message": "Zakończono: Renderowanie produktów (95%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.195Z",
+    "message": "Rozpoczęcie: Aktualizacja danych"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.197Z",
+    "message": "Rozpoczęcie aktualizacji kursów walut"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:13.199Z",
+    "message": "Zakończono: Aktualizacja danych (100%)"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:14.736Z",
+    "message": "Aplikacja w pełni załadowana"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:16.602Z",
+    "message": "Modal kategorii został zamknięty"
+  },
+  {
+    "timestamp": "2025-10-14T08:43:18.818Z",
+    "message": "Rozpoczęcie eksportu danych"
+  }
+]
