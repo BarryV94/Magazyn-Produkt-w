@@ -1,4 +1,5 @@
 {
+  "translation": {
     "ShelfNest": "ShelfNest",
     "Dodaj nowy produkt": "Neues Produkt hinzufügen",
     "Eksportuj dane": "Daten exportieren",
@@ -777,4 +778,5 @@
     "Nie": "Nein",
     "Włączony": "Eingeschaltet",
     "Wyłączony": "Ausgeschaltet"
+  }
 }
