@@ -776,5 +776,7 @@
     "Tak": "Ja",
     "Nie": "Nein",
     "Włączony": "Eingeschaltet",
-    "Wyłączony": "Ausgeschaltet"
+    "Wyłączony": "Ausgeschaltet",
+	"Niedostępne": "X",
+	"Wartość zakupu produktów": "X"
 }
