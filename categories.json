@@ -1,11 +1,11 @@
 [
   {
-    "name": "Inne",
+    "name": "Other",
     "bg": "#ededed",
     "text": "#333"
   },
   {
-    "name": "Złoto",
+    "name": "Gold",
     "bg": "#FFD700",
     "text": "#000"
   },
@@ -65,7 +65,7 @@
     "text": "#333"
   },
   {
-    "name": "Akcesoria",
+    "name": "Accessories",
     "bg": "#000000",
     "text": "#ffffff"
   }
