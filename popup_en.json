@@ -1,5 +1,5 @@
 {
-  "show": false,
+  "show": true,
   "title": "Important Information",
   "message": "Automatic price updates from Cardmarket are currently disabled, but we’re working on adding this feature soon. Don’t forget to set your preferred currency in the settings.",
   "buttonText": "I Understand"
