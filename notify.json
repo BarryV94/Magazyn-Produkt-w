@@ -5,20 +5,20 @@
     "imageUrl": "https://raw.githubusercontent.com/BarryV94/Magazyn-Produkt-w/refs/heads/main/images/gallery/Arceus%20V%20Figure%20Collection.png",
     "videoUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
     "actionUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
-    "validUntil": "2024-12-31"
+    "validUntil": "2025-12-31"
   },
   {
     "title": "Limited Time Offer",
     "message": "Special discount available until the end of the month.",
     "imageUrl": "https://raw.githubusercontent.com/BarryV94/Magazyn-Produkt-w/refs/heads/main/images/gallery/Arceus%20V%20Figure%20Collection.png",
     "actionUrl": "https://github.com/BarryV94/Magazyn-Produkt-w",
-    "validUntil": "2024-10-31"
+    "validUntil": "2025-10-31"
   },
   {
     "title": "Watch Tutorial",
     "message": "Learn how to use the advanced features with our new video tutorial.",
     "videoUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
     "actionUrl": "https://www.youtube.com/channel/YOUR_CHANNEL",
-    "validUntil": "2024-11-15"
+    "validUntil": "2025-11-15"
   }
 ]
