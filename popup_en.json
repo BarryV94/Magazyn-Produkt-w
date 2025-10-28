@@ -1,36 +1,9 @@
 [
   {
     "show": true,
-    "title": "New Feature Available!",
-    "message": "Check out our latest update with enhanced inventory management and reporting features.",
-    "imageUrl": "https://raw.githubusercontent.com/BarryV94/Magazyn-Produkt-w/main/images/gallery/Arceus%20V%20Figure%20Collection.png",
-    "videoUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
-    "actionUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
-    "buttonText": "Got it!",
-    "validUntil": "2025-12-31"
-  },
-  {
-    "show": true,
-    "title": "Limited Time Offer",
-    "message": "Special discount available until the end of the month.",
-    "imageUrl": "https://raw.githubusercontent.com/BarryV94/Magazyn-Produkt-w/main/images/gallery/Arceus%20V%20Figure%20Collection.png",
-    "actionUrl": "https://github.com/BarryV94/Magazyn-Produkt-w",
-    "buttonText": "Learn More",
-    "validUntil": "2025-10-31"
-  },
-  {
-    "show": true,
-    "title": "Watch Tutorial",
-    "message": "Learn how to use the advanced features with our new video tutorial.",
-    "videoUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
-    "actionUrl": "https://www.youtube.com/channel/YOUR_CHANNEL",
-    "buttonText": "Watch Now",
-    "validUntil": "2025-11-15"
-  },
-  {
-    "show": false,
-    "title": "Expired Announcement",
-    "message": "This popup should not show because show is false.",
+    "title": "Test Popup",
+    "message": "This is a test popup to check if everything works correctly.",
+    "buttonText": "OK",
     "validUntil": "2024-12-31"
   }
 ]
