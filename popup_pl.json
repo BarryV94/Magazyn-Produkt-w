@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": fa;lse,
   "title": "Ważna informacja",
   "message": "Na ten moment automatyczne pobieranie cen z Cardmarket jest wyłączone, ale pracuję nad wprowadzeniem tej funkcji do aplikacji. Pamiętaj, aby w ustawieniach wybrać walutę, w której chcesz wyświetlać kwoty.",
   "buttonText": "Rozumiem"
