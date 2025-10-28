@@ -1,6 +1,10 @@
-{
-  "show": true,
-  "title": "Ważna informacja",
-  "message": "Na ten moment automatyczne pobieranie cen z Cardmarket jest wyłączone, ale pracuję nad wprowadzeniem tej funkcji do aplikacji. Pamiętaj, aby w ustawieniach wybrać walutę, w której chcesz wyświetlać kwoty.",
-  "buttonText": "Rozumiem"
-}
+[
+  {
+    "show": true,
+    "title": "Nowa funkcja dostępna!",
+    "message": "Sprawdź naszą najnowszą aktualizację z ulepszonym zarządzaniem magazynem.",
+    "imageUrl": "https://raw.githubusercontent.com/BarryV94/Magazyn-Produkt-w/main/images/gallery/Arceus%20V%20Figure%20Collection.png",
+    "buttonText": "Rozumiem!",
+    "validUntil": "2024-12-31"
+  }
+]
