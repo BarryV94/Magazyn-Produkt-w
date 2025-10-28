@@ -4,18 +4,21 @@
     "message": "Check out our latest update with enhanced inventory management and reporting features.",
     "imageUrl": "https://raw.githubusercontent.com/BarryV94/Magazyn-Produkt-w/refs/heads/main/images/gallery/Arceus%20V%20Figure%20Collection.png",
     "videoUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
-    "actionUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU"
+    "actionUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
+    "validUntil": "2024-12-31"
   },
   {
-    "title": "App Update Available",
-    "message": "Version 2.0 is now available with performance improvements and bug fixes.",
+    "title": "Limited Time Offer",
+    "message": "Special discount available until the end of the month.",
     "imageUrl": "https://raw.githubusercontent.com/BarryV94/Magazyn-Produkt-w/refs/heads/main/images/gallery/Arceus%20V%20Figure%20Collection.png",
-    "actionUrl": "https://github.com/BarryV94/Magazyn-Produkt-w/releases"
+    "actionUrl": "https://github.com/BarryV94/Magazyn-Produkt-w",
+    "validUntil": "2024-10-31"
   },
   {
     "title": "Watch Tutorial",
     "message": "Learn how to use the advanced features with our new video tutorial.",
-    "videoUrl": "https://www.youtube.com/watch?v=TUTORIAL_VIDEO_ID",
-    "actionUrl": "https://www.youtube.com/channel/YOUR_CHANNEL"
+    "videoUrl": "https://www.youtube.com/watch?v=7JT2WsqKbcU",
+    "actionUrl": "https://www.youtube.com/channel/YOUR_CHANNEL",
+    "validUntil": "2024-11-15"
   }
 ]
