@@ -1,6 +1,12 @@
-{
-  "show": true,
-  "title": "Important Information",
-  "message": "Automatic price updates from Cardmarket are currently disabled, but we’re working on adding this feature soon. Don’t forget to set your preferred currency in the settings.",
-  "buttonText": "I Understand"
-}
+[
+  {
+    "show": true,
+    "title": "New Feature!",
+    "message": "Check out our latest update...",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png",
+    "videoUrl": "https://www.youtube.com/watch?v=YIUqsZRELz8",
+    "actionUrl": "https://example.com",
+    "buttonText": "Got it!",
+    "validUntil": "2024-12-31"
+  }
+]
