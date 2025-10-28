@@ -1,5 +1,4 @@
 [
-  {
     "show": true,
     "title": "New Feature!",
     "message": "Check out our latest update...",
@@ -8,5 +7,4 @@
     "actionUrl": "https://example.com",
     "buttonText": "Got it!",
     "validUntil": "2024-12-31"
-  }
 ]
