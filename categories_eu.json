@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Other",
+    "bg": "#ededed",
+    "text": "#333"
+  },
+  {
+    "name": "Pokémon Singles",
+    "bg": "#6a1b9a",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Pokémon Booster",
+    "bg": "#30e62d",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Pokémon Display",
+    "bg": "#d80e0e",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Pokémon Elite Trainer Boxes",
+    "bg": "#577be5",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Pokémon Tins",
+    "bg": "#1fd690",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Pokémon Blisters",
+    "bg": "#c44703",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Pokémon Trainer Kits",
+    "bg": "#2ff9eb",
+    "text": "#333"
+  },
+  {
+    "name": "Pokémon Theme Deck",
+    "bg": "#f96cd3",
+    "text": "#333"
+  },
+  {
+    "name": "Pokémon Box Set",
+    "bg": "#d7f019",
+    "text": "#333"
+  },
+  {
+    "name": "Accessories",
+    "bg": "#000000",
+    "text": "#ffffff"
+  },
+  {
+    "name": "Pokémon Coins",
+    "bg": "#f3972a",
+    "text": "#333"
+  },
+  {
+    "name": "Pokémon Lot",
+    "bg": "#3d92da",
+    "text": "#333"
+  },
+  {
+    "name": "Pokémon Sets",
+    "bg": "#000000",
+    "text": "#c52b9d"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "show": false,
+  "title": "Ważna informacja",
+  "message": "Od 13 stycznia 2026 nasza aplikacja zapisuje historię produktów i ceny dla konkretnych dni. Oznacza to, że niezależnie od tego, kiedy pobierzesz aplikację (np. 20 stycznia 2026 lub za rok), automatycznie pobierzemy i udostępnimy dane historyczne sięgające 13.01.2026. Dzięki temu od razu zobaczysz wykresy i historię cen od tej daty.",
+  "buttonText": "Rozumiem"
+}

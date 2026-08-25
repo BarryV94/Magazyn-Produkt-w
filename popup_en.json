@@ -1,0 +1,6 @@
+{
+  "show": false,
+  "title": "Important Information",
+  "message": "Since January 13, 2026 our app records product history and daily prices. This means that no matter when you download the app (for example on January 20, 2026 or a year from now), we will automatically fetch and provide the historical data going back to January 13, 2026. That way you’ll immediately see charts and price history starting from that date.",
+  "buttonText": "I Understand"
+}
