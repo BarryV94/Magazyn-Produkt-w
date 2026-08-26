@@ -1,4 +1,4 @@
-﻿{
+{
     "Pokémon Booster": [
         {
             "name": "Phantom Forces Booster",
@@ -966,7 +966,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 1618,
             "idMetacard": 0,
-            "dateAdded": "2015-05-04 10:45:56"
+            "dateAdded": "2015-05-04 10:45:56",
+            "idTcgplayer": "141229"
         },
         {
             "name": "POP Series 7 Booster",
@@ -1034,7 +1035,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 1660,
             "idMetacard": 0,
-            "dateAdded": "2015-08-05 10:40:55"
+            "dateAdded": "2015-08-05 10:40:55",
+            "idTcgplayer": "100490"
         },
         {
             "name": "BREAKthrough Booster",
@@ -1060,7 +1062,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 1687,
             "idMetacard": 0,
-            "dateAdded": "2016-01-04 17:54:06"
+            "dateAdded": "2016-01-04 17:54:06",
+            "idTcgplayer": "111279"
         },
         {
             "name": "Fates Collide Booster",
@@ -1170,7 +1173,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 1842,
             "idMetacard": 0,
-            "dateAdded": "2017-08-25 13:54:36"
+            "dateAdded": "2017-08-25 13:54:36",
+            "idTcgplayer": "155880"
         },
         {
             "name": "Crimson Invasion Booster",
@@ -1404,7 +1408,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 3274,
             "idMetacard": 0,
-            "dateAdded": "2020-05-28 08:05:48"
+            "dateAdded": "2020-05-28 08:05:48",
+            "idTcgplayer": "571837"
         },
         {
             "name": "Explosive Flame Walker Booster",
@@ -1502,7 +1507,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 3199,
             "idMetacard": 0,
-            "dateAdded": "2020-08-17 15:07:46"
+            "dateAdded": "2020-08-17 15:07:46",
+            "idTcgplayer": "216863"
         },
         {
             "name": "Shocking Volt Tackle Booster",
@@ -4724,7 +4730,9 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 4463,
             "idMetacard": 0,
-            "dateAdded": "2021-11-12 15:31:33"
+            "dateAdded": "2021-11-12 15:31:33",
+            "idTcgplayer": "138129",
+            "idTCGPlayer_1st_Edition": "138128"
         },
         {
             "name": "First Partner Pack EU Version (Alola)",
@@ -5696,7 +5704,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 5198,
             "idMetacard": 0,
-            "dateAdded": "2022-10-28 15:31:43"
+            "dateAdded": "2022-10-28 15:31:43",
+            "idTcgplayer": "565253"
         },
         {
             "name": "Crown Zenith Booster",
@@ -8450,7 +8459,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 6209,
             "idMetacard": 0,
-            "dateAdded": "2025-07-11 17:15:39"
+            "dateAdded": "2025-07-11 17:15:39",
+            "idTcgplayer": "644352"
         },
         {
             "name": "Play! Pokémon Prize Pack Series Seven Booster",
@@ -8586,7 +8596,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 6299,
             "idMetacard": 0,
-            "dateAdded": "2025-09-04 15:11:52"
+            "dateAdded": "2025-09-04 15:11:52",
+            "idTcgplayer": "654144"
         },
         {
             "name": "Phantasmal Flames Sleeved Booster",
