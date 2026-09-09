@@ -1903,7 +1903,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 3738,
             "idMetacard": 0,
-            "dateAdded": "2021-03-16 11:11:05"
+            "dateAdded": "2021-03-16 11:11:05",
+            "idTcgplayer": "232748"
         },
         {
             "name": "General Mills 25th Anniversary Booster",
@@ -56362,7 +56363,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 3143,
             "idMetacard": 0,
-            "dateAdded": "2021-11-17 17:59:59"
+            "dateAdded": "2021-11-17 17:59:59",
+            "idTcgplayer": "210564"
         },
         {
             "name": "Rebel Clash: Noctowl 1-Pack Blister",
@@ -56374,7 +56376,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 3143,
             "idMetacard": 0,
-            "dateAdded": "2021-11-17 18:00:18"
+            "dateAdded": "2021-11-17 18:00:18",
+            "idTcgplayer": "210565"
         },
         {
             "name": "Rebel Clash: Boltund Stage 1 Blister",
@@ -56434,7 +56437,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 3143,
             "idMetacard": 0,
-            "dateAdded": "2021-11-17 18:02:12"
+            "dateAdded": "2021-11-17 18:02:12",
+            "idTcgplayer": "210567"
         },
         {
             "name": "Rebel Clash: Rayquaza 3-Pack Blister",
@@ -56446,7 +56450,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 3143,
             "idMetacard": 0,
-            "dateAdded": "2021-11-17 18:02:28"
+            "dateAdded": "2021-11-17 18:02:28",
+            "idTcgplayer": "210568"
         },
         {
             "name": "Island Guardians Collector's Pin Blister",
@@ -57550,7 +57555,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 1742,
             "idMetacard": 0,
-            "dateAdded": "2021-11-23 16:47:53"
+            "dateAdded": "2021-11-23 16:47:53",
+            "idTcgplayer": "603422"
         },
         {
             "name": "Evolutions: Weezing 1-Pack Blister",
@@ -58114,7 +58120,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 1660,
             "idMetacard": 0,
-            "dateAdded": "2021-11-24 11:24:12"
+            "dateAdded": "2021-11-24 11:24:12",
+            "idTcgplayer": "100493"
         },
         {
             "name": "Ancient Origins: Salamence 3-Pack Blister",
@@ -58126,7 +58133,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 1660,
             "idMetacard": 0,
-            "dateAdded": "2021-11-24 11:24:27"
+            "dateAdded": "2021-11-24 11:24:27",
+            "idTcgplayer": "100494"
         },
         {
             "name": "Dragonite Collector's Pin 3-Pack Blister",
@@ -58770,7 +58778,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 4434,
             "idMetacard": 0,
-            "dateAdded": "2022-01-26 10:28:03"
+            "dateAdded": "2022-01-26 10:28:03",
+            "idTcgplayer": "256130"
         },
         {
             "name": "Brilliant Stars: Glaceon 3-Pack Blister",
@@ -58782,7 +58791,8 @@
             "categoryName": "Pokémon Blisters",
             "idExpansion": 4434,
             "idMetacard": 0,
-            "dateAdded": "2022-01-26 10:28:44"
+            "dateAdded": "2022-01-26 10:28:44",
+            "idTcgplayer": "256132"
         },
         {
             "name": "20th Anniversary Special Pack: M Slowbro-EX + Surfing Pikachu",
