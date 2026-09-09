@@ -746,7 +746,9 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 1532,
             "idMetacard": 0,
-            "dateAdded": "2007-01-01 00:00:00"
+            "dateAdded": "2007-01-01 00:00:00",
+            "idTcgplayer": "138143",
+            "idTCGPlayer_1st_Edition": "138144"
         },
         {
             "name": "EX Team Magma vs Team Aqua Booster",
@@ -870,7 +872,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 1540,
             "idMetacard": 0,
-            "dateAdded": "2007-01-01 00:00:00"
+            "dateAdded": "2007-01-01 00:00:00",
+            "idTcgplayer": "98565"
         },
         {
             "name": "Double Crisis Booster",
@@ -1396,7 +1399,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 1636,
             "idMetacard": 0,
-            "dateAdded": "2020-05-26 17:16:08"
+            "dateAdded": "2020-05-26 17:16:08",
+            "idTcgplayer": "98948"
         },
         {
             "name": "Infinity Zone Booster",
@@ -1421,7 +1425,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 3219,
             "idMetacard": 0,
-            "dateAdded": "2020-05-28 08:11:56"
+            "dateAdded": "2020-05-28 08:11:56",
+            "idTcgplayer": "571839"
         },
         {
             "name": "Rebellion Crash Booster",
@@ -9537,7 +9542,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 6601,
             "idMetacard": 0,
-            "dateAdded": "2026-06-02 11:44:26"
+            "dateAdded": "2026-06-02 11:44:26",
+            "idTcgplayer": "696613"
         },
         {
             "name": "Chaos Rising Fun Pack (3 Cards)",
@@ -9623,7 +9629,8 @@
             "categoryName": "Pokémon Booster",
             "idExpansion": 6601,
             "idMetacard": 0,
-            "dateAdded": "2026-07-01 15:03:50"
+            "dateAdded": "2026-07-01 15:03:50",
+            "idTcgplayer": "704192"
         },
         {
             "name": "Storm Emeralda Booster",
@@ -9957,7 +9964,8 @@
             "categoryName": "Pokémon Display",
             "idExpansion": 1559,
             "idMetacard": 0,
-            "dateAdded": "2007-01-01 00:00:00"
+            "dateAdded": "2007-01-01 00:00:00",
+            "idTcgplayer": "98584"
         },
         {
             "name": "Mysterious Treasures Booster Box",
@@ -10233,7 +10241,9 @@
             "categoryName": "Pokémon Display",
             "idExpansion": 1526,
             "idMetacard": 0,
-            "dateAdded": "2007-01-01 00:00:00"
+            "dateAdded": "2007-01-01 00:00:00",
+            "idTcgplayer": "107600",
+            "idTCGPlayer_1st_Edition": "107601"
         },
         {
             "name": "Gym Challenge Booster Box",
